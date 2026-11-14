@@ -1,2 +1,2 @@
-# prompts
-Personal LLM Prompts
+# Prompts
+Personal LLM Prompts.
