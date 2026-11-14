@@ -138,9 +138,11 @@ A change block looks like this:
 # AI: (state what model you are)
 # context (unchanged lines around the change)
 
-```<<< Old code to remove or replace
+
+<<< Old code to remove or replace
 def update(self, dt):
     self.rect.x += self.speed
+
 
 >>> New code:
 def update(self, dt):
