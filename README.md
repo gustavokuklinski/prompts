@@ -13,7 +13,7 @@ system prompt slot, custom instructions field, or prompt management tool.
 
 ### Python
 
-- **[Pygame Code — Create, Review, Update, Delete](pygame_code_create_review_update_delete.md)**
+- **[Pygame Code — Create, Review, Update, Delete](pygame_code_crud.md)**
   End-to-end Pygame development assistant: generates new code, reviews
   existing implementations, applies targeted updates, and safely removes
   logic while preserving the surrounding architecture.
