@@ -17,6 +17,7 @@ system prompt slot, custom instructions field, or prompt management tool.
   End-to-end Pygame development assistant: generates new code, reviews
   existing implementations, applies targeted updates, and safely removes
   logic while preserving the surrounding architecture.
+  _AI/LLM: GLM-5.2_
 
 ## Structure of a Prompt File
 
