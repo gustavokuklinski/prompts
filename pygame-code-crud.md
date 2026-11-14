@@ -135,21 +135,14 @@ A change block looks like this:
 
 ```python
 # file: path/to/file.py  ::  function_or_class_name
+# AI: (state what model you are)
 # context (unchanged lines around the change)
-```
 
-Old code to remove or replace:
-
-<!-- example: use three backticks followed by <<< -->
-```<<<
+```<<< Old code to remove or replace
 def update(self, dt):
     self.rect.x += self.speed
-```
 
-New code:
-
-<!-- example: use three backticks followed by >>> -->
-```>>>
+>>> New code:
 def update(self, dt):
     self.rect.x += self.speed * dt
 ```
